@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+ 
+  "name": "SizeUp Tech Specific Info",
+  "version": "0.1.0",
+  "description": "Displays tech specific information on job ticket",
+  "action": {
+    "default_popup": "hello.html"
+      },
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["papaparse.js","papaparse.min.js","content.js"],
+    "matches": ["https://app.uleadz.com/job/job/*"]
+  
+  }],
+    "web_accessible_resources": [
+      {
+        "resources": ["database.csv"],
+        "matches": ["https://app.uleadz.com/job/job/*"]
+      }
+    ]
+}
