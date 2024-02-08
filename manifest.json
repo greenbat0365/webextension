@@ -6,18 +6,14 @@
   "description": "Displays tech specific information on job ticket",
   "action": {
     "default_popup": "hello.html"
-      },
+  
+},
+  
  
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["papaparse.js","papaparse.min.js","content.js"],
     "matches": ["https://app.uleadz.com/job/job/*"]
   
-  }],
-    "web_accessible_resources": [
-      {
-        "resources": ["database.csv"],
-        "matches": ["https://app.uleadz.com/job/job/*"]
-      }
-    ]
+  }]
 }
