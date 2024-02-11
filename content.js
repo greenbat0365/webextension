@@ -1,105 +1,274 @@
 let csv = `Adsource,Company,UleadzTechnician,Metros,Service Area,Affiliates,HoursofOperation,CantDoList,Notes
-Line 2: Bulldog LS #1,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Bulldog LS #2,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: 682 LS #3,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Sherlock LS #4,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Bulldog LS #5,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Everlast GD #6,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Easy Fix GD #7,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Brooks GD #10,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: My Local LS #11,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: My Local LS #12,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: My Local LS #13,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Extra LS #14,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Extra LS #15,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Bulldog LS #16,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Agent LS #17,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: My Local LS #18,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Jet LS #19,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Sherlock LS #20,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: 682 LS #21,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: ITECH LS #22,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: ITECH LS #23,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Lion L&K #24,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
-Line 2: Lion L&K #25,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,,Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours(11.00 PM to 7.00 AM)Book the Lead as usual but at the end of the call, tell the Customer: “Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Bulldog LS #1,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Bulldog LS #2,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: 682 LS #3,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Sherlock LS #4,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Bulldog LS #5,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Everlast GD #6,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Easy Fix GD #7,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: Brooks GD #10,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”
+"
+Line 2: My Local LS #11,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: My Local LS #12,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: My Local LS #13,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Extra LS #14,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Extra LS #15,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Bulldog LS #16,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Agent LS #17,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: My Local LS #18,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Jet LS #19,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Sherlock LS #20,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: 682 LS #21,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: ITECH LS #22,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: ITECH LS #23,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Lion L&K #24,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Lion L&K #25,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
+Line 2: Bulldog LS #24,Company : BULLDOG LOCKSMITH (LINE-2),Uleadz Technician: Line 2 : Bulldog Technician,"Metro:  Dallas & Fort Worth, TX",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Ignition Jobs:  7 Days a Week from 7.00 AM - 11.00 PMOther Jobs: 24 hours a day 7 Days a Week,Can't Do List: No Can’t Do List ,"--Notes: When you get a Non-Ignition Job i.e., Lock Change / Install Lock / Re-Key, House or Car Lockouts after Hours (11.00 PM to 7.00 AM)
+--Book the Lead as usual but at the end of the call, tell the Customer: 
+--“Currently our Technician is on another Job. As soon as he Finishes the Job, he will Call you.”"
 Line 3: Jimmy LS (Chicago),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.","Service Area: No Service Area (No OOA Jobs)
 ","Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 3: Jimmy LS (Detroit),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
 ","Service Area: No Service Area (No OOA Jobs)
 ","Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 3: 24/7 LS (Tampa),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
 ",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 3: 24/7 Mobile LS (Tampa),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
 ","Service Area: No Service Area (No OOA Jobs)
 ","Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 3: 24/7 Mobile LS (Detroit),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
 ","Service Area: No Service Area (No OOA Jobs)
 ","Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 3: 24/7 Mobile LS (Cleavland),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
 ","Service Area: No Service Area (No OOA Jobs)
 ","Affiliates: None
-",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,,"Can't Do List: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Any Ignition Jobs on Cars Older than 1999"
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
+Line 3: Jerry Locksmith (Detroit),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
+","Service Area: No Service Area (No OOA Jobs)
+","Affiliates: None
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
+Line 3: Mobile LS LMY (Detroit),Company : Jimmy Locksmith (LINE-3),Uleadz Technician: Line 3 : Jimmy Locksmith Tech.,"Metro:  Detroit, MI. Chicago, IL. Cleavland, OH.  & Tampa, FL.
+","Service Area: No Service Area (No OOA Jobs)
+","Affiliates: None
+",Office Hours: 7 Days a Week from 7:00 AM - 12:00 AM,"Can't Do List:--Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Any Ignition Jobs on Cars Older than 1999",
 Line 5: Makey LS,"Company : Makey LS (LINE-5)
 ","Uleadz Technician: Line 5: Makey LS 
 ","Metro: Rockville, Marryland","Service Area: Maryland and D.C only
 ","Affiliates: None
-",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk. Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk. No Key Duplicates Ignition Jobs for Cars Older than 1998 Fix/Change Car Locks Motorcycle / Motorbike Keys / Scooters German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Fix Car Alarms or Car Computer Resets No Jobs with Safes: Lockout, New Key, Fix, etc. Battery Changes on Car Keys, Cars or Garage Doors Make a Key for a Trailer Hitch Lock Does not do any None-Locksmithing Jobs No Garage Door Fix and Install Jobs",
+",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: 
+-- Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk.
+-- Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk.
+-- No Key Duplicates
+-- Ignition Jobs for Cars Older than 1998
+-- Cannot do any fix/change ignition
+-- Cannot do any lock change/lock fix on the car door or trunk 
+-- Fix/Change Car Locks
+-- Motorcycle / Motorbike Keys / Scooters
+-- German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Fix Car Alarms or Car Computer Resets
+-- No Jobs with Safes: Lockout, New Key, Fix, etc.
+-- Battery Changes on Car Keys, Cars or Garage Doors
+-- Make a Key for a Trailer Hitch Lock
+-- Does not do any Non-Locksmithing Jobs
+-- No Garage Door Fix and Install Jobs
+",
 Line 5:Recommended LS,"Company : Makey LS (LINE-5)
 ","Uleadz Technician: Line 5: Makey LS 
 ","Metro: Rockville, Marryland","Service Area: Maryland and D.C only
 ","Affiliates: None
-",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk. Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk. No Key Duplicates Ignition Jobs for Cars Older than 1998 Fix/Change Car Locks Motorcycle / Motorbike Keys / Scooters German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Fix Car Alarms or Car Computer Resets No Jobs with Safes: Lockout, New Key, Fix, etc. Battery Changes on Car Keys, Cars or Garage Doors Make a Key for a Trailer Hitch Lock Does not do any None-Locksmithing Jobs No Garage Door Fix and Install Jobs",
+",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: 
+-- Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk.
+-- Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk.
+-- No Key Duplicates
+-- Ignition Jobs for Cars Older than 1998
+-- Cannot do any fix/change ignition
+-- Cannot do any lock change/lock fix on the car door or trunk 
+-- Fix/Change Car Locks
+-- Motorcycle / Motorbike Keys / Scooters
+-- German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Fix Car Alarms or Car Computer Resets
+-- No Jobs with Safes: Lockout, New Key, Fix, etc.
+-- Battery Changes on Car Keys, Cars or Garage Doors
+-- Make a Key for a Trailer Hitch Lock
+-- Does not do any Non-Locksmithing Jobs
+-- No Garage Door Fix and Install Jobs",
 Line 5:Ultimate LS,"Company : Makey LS (LINE-5)
 ","Uleadz Technician: Line 5: Makey LS 
 ","Metro: Rockville, Marryland","Service Area: Maryland and D.C only
 ","Affiliates: None
-",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk. Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk. No Key Duplicates Ignition Jobs for Cars Older than 1998 Fix/Change Car Locks Motorcycle / Motorbike Keys / Scooters German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Fix Car Alarms or Car Computer Resets No Jobs with Safes: Lockout, New Key, Fix, etc. Battery Changes on Car Keys, Cars or Garage Doors Make a Key for a Trailer Hitch Lock Does not do any None-Locksmithing Jobs No Garage Door Fix and Install Jobs",
+",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: 
+-- Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk.
+-- Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk.
+-- No Key Duplicates
+-- Ignition Jobs for Cars Older than 1998
+-- Cannot do any fix/change ignition
+-- Cannot do any lock change/lock fix on the car door or trunk 
+-- Fix/Change Car Locks
+-- Motorcycle / Motorbike Keys / Scooters
+-- German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Fix Car Alarms or Car Computer Resets
+-- No Jobs with Safes: Lockout, New Key, Fix, etc.
+-- Battery Changes on Car Keys, Cars or Garage Doors
+-- Make a Key for a Trailer Hitch Lock
+-- Does not do any Non-Locksmithing Jobs
+-- No Garage Door Fix and Install Jobs
+",
 Line 5:Montgomery LS,"Company : Makey LS (LINE-5)
 ","Uleadz Technician: Line 5: Makey LS 
 ","Metro: Rockville, Marryland","Service Area: Maryland and D.C only
 ","Affiliates: None
-",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk. Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk. No Key Duplicates Ignition Jobs for Cars Older than 1998 Fix/Change Car Locks Motorcycle / Motorbike Keys / Scooters German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars Fix Car Alarms or Car Computer Resets No Jobs with Safes: Lockout, New Key, Fix, etc. Battery Changes on Car Keys, Cars or Garage Doors Make a Key for a Trailer Hitch Lock Does not do any None-Locksmithing Jobs No Garage Door Fix and Install Jobs",
+",Hours of Operation:  8.00 AM - 8.00 PM : 7 Days a Week,"Can't Do List: 
+-- Cannot Duplicate Keys for anything except Vehicle Ignition & Vehicle Doors/Trunk.
+-- Cannot Make a New Key for anything except Vehicles Ignition & Vehicle Doors/Trunk.
+-- No Key Duplicates
+-- Ignition Jobs for Cars Older than 1998
+-- Cannot do any fix/change ignition
+-- Cannot do any lock change/lock fix on the car door or trunk 
+-- Fix/Change Car Locks
+-- Motorcycle / Motorbike Keys / Scooters
+-- German Cars: Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars
+-- Fix Car Alarms or Car Computer Resets
+-- No Jobs with Safes: Lockout, New Key, Fix, etc.
+-- Battery Changes on Car Keys, Cars or Garage Doors
+-- Make a Key for a Trailer Hitch Lock
+-- Does not do any Non-Locksmithing Jobs
+-- No Garage Door Fix and Install Jobs",
+Line 6: Mister L&K,"Company : Rochester L&K (LINE-6) 
+",Uleadz Technician: Line 6: Rochester L&K tech,"Metro:  Rochester, NY",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
+",Hours of Operation: Sunday - Thursday from 7:00 AM – 12:00 AM Friday from 7:00 AM – 4:00 PM Saturday: Closed,"Can't Do List: 
+- Ferrari, Bugatti & Pagani
+- Volkswagen & BMW 2007 & Up
+- Mercedes Benz, Audi, Porsche, Volvo & any other German Cars
+- No Motorcycles / Motorbikes
+",
 Line 6: Rochester L&K,"Company : Rochester L&K (LINE-6) 
 ",Uleadz Technician: Line 6: Rochester L&K tech,"Metro:  Rochester, NY",Service Area: No Service Area (No OOA Jobs),"Affiliates: None
-",Hours of Operation: Sunday - Thursday from 7:00 AM – 12:00 AM Friday from 7:00 AM – 4:00 PM Saturday: Closed,"Can't Do List: Ferrari, Bugatti & Pagani Volkswagen & BMW 2007 & Up Mercedes Benz, Audi, Porsche, Volvo & any other German Cars No Motorcycles / Motorbikes",
-Line 7: Pro-Keys LS ,"Company : PRO-KEYS LOCKSMITH (LINE-7)
+",Hours of Operation: Sunday - Thursday from 7:00 AM – 12:00 AM Friday from 7:00 AM – 4:00 PM Saturday: Closed,"Can't Do List: 
+- Ferrari, Bugatti & Pagani
+- Volkswagen & BMW 2007 & Up
+- Mercedes Benz, Audi, Porsche, Volvo & any other German Cars
+- No Motorcycles / Motorbikes
+",
+Line 7: Prokeys LS ,"Company : PRO-KEYS LOCKSMITH (LINE-7)
 ",Uleadz Technician: Line 7 : Prokeys,"Metro:  Dallas & Fort Worth TX, New York NY
-",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,Can't Do List: Saab - Motorcycles - ATVs - Cars Older than 1997 - BMW Older than 2004 - BMW 2017 or Newer - Mercedes Older than 2004 - Mercedes Newer than 2014 - House Key Duplicates,
+",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,"Can't Do List: 
+Saab - Motorcycles - ATVs -- Cars Older than 1997
+-- BMW Older than 2004 & BMW 2017 or Newer 
+-- Mercedes Older than 2004 & Mercedes Newer than 2014
+-- House Key Duplicates
+",
 Line 7: Local Services,"Company : PRO-KEYS LOCKSMITH (LINE-7)
 ",Uleadz Technician: Line 7 : Prokeys,"Metro:  Dallas & Fort Worth TX, New York NY
-",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,Can't Do List: Saab - Motorcycles - ATVs - Cars Older than 1997 - BMW Older than 2004 - BMW 2017 or Newer - Mercedes Older than 2004 - Mercedes Newer than 2014 - House Key Duplicates,
+",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,"Can't Do List: 
+Saab - Motorcycles - ATVs -- Cars Older than 1997
+-- BMW Older than 2004 & BMW 2017 or Newer 
+-- Mercedes Older than 2004 & Mercedes Newer than 2014
+-- House Key Duplicates
+",
 Line 7: Quick Rescue LS,"Company : PRO-KEYS LOCKSMITH (LINE-7)
 ",Uleadz Technician: Line 7 : Prokeys,"Metro:  Dallas & Fort Worth TX, New York NY
-",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,Can't Do List: Saab - Motorcycles - ATVs - Cars Older than 1997 - BMW Older than 2004 - BMW 2017 or Newer - Mercedes Older than 2004 - Mercedes Newer than 2014 - House Key Duplicates,
+",Service Area: No Service Area (No OOA Jobs),Affiliates: Yelp!,Hours of Operation: Sunday - Thursday from 7:00 AM – 1:00 AM Friday from 7:00 AM – 5:00 PM Saturday from 8:00 PM – 1:00 AM,"Can't Do List: 
+Saab - Motorcycles - ATVs -- Cars Older than 1997
+-- BMW Older than 2004 & BMW 2017 or Newer 
+-- Mercedes Older than 2004 & Mercedes Newer than 2014
+-- House Key Duplicates",
 Line 8: A1 Lock Express ,"Company : A1 LOCK EXPRESS (LINE-8) 
+","Uleadz Technician: Line 8 : A1 Lock Express Technician
+","Metro:  Austin, Texas
+",Service Area: No Service Area (No OOA Jobs),"Affiliates: Home Advisor, Angie's List
+",Hours of Operation: 24/7 : Open 7 Days a Week,"Can't Do List: Motorcycles / Motorbikes
+",
+Line 8: 24/7 Locksmith,"Company : A1 LOCK EXPRESS (LINE-8) 
 ","Uleadz Technician: Line 8 : A1 Lock Express Technician
 ","Metro:  Austin, Texas
 ",Service Area: No Service Area (No OOA Jobs),"Affiliates: Home Advisor, Angie's List
@@ -124,7 +293,39 @@ Line 12: Mobile LS of PGH (Guarantee),"Company : Pittsburgh Mobile LS (LINE-12)
 ",Uleadz Technician: Line 12: Pittsburgh Mobile Tech.,"Metro:  Pittsburgh, PA",Service Area: Service area inside Uleadz,"Affiliates: None
 ","Hours of Operation: 7:30 AM - 11:00 PM : 7 Days a Week
 ","Can't Do List: No Can’t Do List
-",`;
+",
+Line 1: Lockbuster Pro,Company : LOCKBUSTER PRO (LINE-1),Uleadz Technician: Line 1 : Lockbuster Tech,"Metros:  Detroit & Grand Rapids, Michigan Knoxville, TN & Surrounding Cities",Service Area: No Service Area (No OOA Jobs),Affiliates: None,Hours of Operation: 7 Days a Week from 7.00 AM - 9.00 PM,"Can't Do List (For MICHIGAN ONLY): --Motorbikes or Motorcycles --Volkswagen, Mercedes Benz, Audi, BMW, Porsche, Volvo and any other German Cars--Can't Do List (For TENNESSEE): No Can’t Do List.",For this Technician don’t Send Can't do Jobs
+Line 11: Pop-A-Lock,Company : Pop-A-Lock (LINE-11)        ,"Uleadz Technician: Line 11: Pop-A-Lock Tech.
+","Metro:  Halifax, Canada
+","Service Area: Inside of Uleadz
+",Affiliates: None,"Hours of Store Operation: 
+Monday - Friday from 7:30 AM – 4:30 PM
+Saturday & Sunday : Closed--Store Address: (Burnside) 48 Trider Crescent, Dartmouth, NS B3B 1W5, Canada","Can't Do List:
+--Volvo, Mercedes, Volkswagen, Porsche,  (or any other European Models) Sprinter Vans, Smart Cars, Mini-Cooper, Tesla, Audi, Daewoo, Jaguar, Land Rover, Suzuki
+--Can Duplicate Most Keys except Medeco, ASSA Abloy
+--No Jobs with Safes: Lockout, New Key, Fix, etc.
+","Important Note: 
+--Pop-A-Lock is mainly a service center for you to come and get work done. Their store does not sell locksmithing equipment. They do sell regular things like locks and padlocks but usually they have to order it for you in advance. They do sell car key blanks. 
+-- For both Program & Make a Car Key we want to Check with the Customer if they have a Functioning Spare Key & add this to the Notes.
+“Sir/Ma’am do you Currently have a Working Spare Key for the Vehicle?”
+--If the Customer has a Working Spare Key & the Ignition Type is a Regular ignition, we want to get them to come to the Store. What we need to ask is:
+“Currently our Field Technicians are Overbooked, would you be willing to come to our Store for this service?”
+--If the customer has a PTS and wants to come to Store, say the following:
+“Usually, we need to order Push to Start Keys. So, we will have to set up an appointment for you to come to the store when it arrives, would that work for you?”
+--If the Customer Cannot come to the Store, then get the full Lead information & follow the steps below.
+(In general for Pop-A-Lock, do not book any appointments moving forward. In all cases, get all the information from the customer and then inform them as explained below accordingly.)
+Also after getting the Address, Name and Number ask the Following question:
+“Sir/Ma’am, is this an Emergency Service that you need immediately or could we Schedule an Appointment with you for this Service?”
+
+--For Emergency Services (Any other jobs where a customer needs immediate service or in less than 2 hours) our goal is to get all the information in case there is a technician nearby, but not to promise anything as 90% of the time, tech is not available to do the Job.
+
+--If it’s EMG Service End the Call with:
+""In that case, I'm sorry, we do not have anyone available in your area at the moment. I’d recommend that you call another Company. If we can free someone up, we will call you back.""
+For All other Non-EMG services (Any job with at least 2 hours of Lead Time), our goal is to get all the details and let the Pop-A-Lock book the appointment. End the Call with:
+“Please Stay Available by this Number, My dispatcher will contact you in the next 15-20 Mins to set up an appointment for us to Service you.”
+--For Store Visits End the Call with: 
+“Thank you for Calling Pop-A-Lock, we look forward to Servicing you at our Store. Have a great day”
+If a customer asks for Carlie or Laurie, inform them that they’re handling another ticket right now but we’d be happy to pass on a message to them and have them call back in 15-20 minutes. Then get the message from the customer and send the ticket with the tag company message."`;
 
 const reference = document.getElementById("panel-group");
 const actual = reference.lastElementChild;
@@ -141,6 +342,7 @@ const createDiv6 = document.createElement('p');
 const createDiv7 = document.createElement('p');
 const createDiv8 = document.createElement('p');
 const createDiv9 = document.createElement('p');
+const createDivLine = document.createElement('hr');
 
 
 
@@ -178,8 +380,24 @@ Papa.parse(csv,{
               createDiv5.textContent = arrayobj[i][4];
               createDiv6.textContent = arrayobj[i][5];
               createDiv7.textContent = arrayobj[i][6];
-              createDiv8.textContent = arrayobj[i][7];
-              createDiv9.textContent = arrayobj[i][8];
+              
+              let splitCantDo = arrayobj[i][7].split("--");
+              let splitNotes = arrayobj[i][8].split("--");
+              function createDivs(array){
+                for (let i=0; i<array.length;i++){
+                 const createDivFunction = document.createElement('p');
+                 createDivFunction.textContent = array[i];
+                 createDivFunction.style.margin = "0";
+                 actual.appendChild(createDivFunction);
+                 actual.appendChild(createDivLine);
+                 }
+                }
+                createDivs(splitCantDo);
+                createDivs(splitNotes);
+              
+                
+
+             
               actual.appendChild(createDiv1);
               actual.appendChild(createDiv2);
               actual.appendChild(createDiv3);
