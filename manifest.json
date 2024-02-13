@@ -12,8 +12,8 @@
  
   "content_scripts": [{
     "css": ["styles.css"],
-    "js": ["papaparse.js","papaparse.min.js","content.js"],
-    "matches": ["https://app.uleadz.com/*"]
+    "js": ["papaparse.min.js","content.js"],
+    "matches": ["https://app.uleadz.com/job/job/*","https://app.uleadz.com/Job/Job/*"]
   
   }]
 }
