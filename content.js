@@ -13,7 +13,8 @@ const createDiv6 = document.createElement("p");
 const createDiv7 = document.createElement("p");
 const createDiv8 = document.createElement("p");
 const createDiv9 = document.createElement("p");
-const createDivLine = document.createElement("hr");
+const createDivLine1 = document.createElement("hr");
+const createDivLine2 = document.createElement("hr");
 
 let arrayobj = [];
 
@@ -38,8 +39,8 @@ Papa.parse(remotecsv, {
           createDiv4.textContent = arrayobj[i][3];
           createDiv5.textContent = arrayobj[i][4];
           createDiv6.textContent = arrayobj[i][5];
-          createDiv7.textContent = arrayobj[i][6];
-
+          
+          let splitHours = arrayobj[i][6].split("--");
           let splitCantDo = arrayobj[i][7].split("--");
           let splitNotes = arrayobj[i][8].split("--");
           function createDivs(array) {
@@ -48,7 +49,7 @@ Papa.parse(remotecsv, {
               createDivFunction.textContent = array[i];
               createDivFunction.style.margin = "0";
               actual.appendChild(createDivFunction);
-              actual.appendChild(createDivLine);
+              actual.appendChild(createDivLine1);
             }
           }
           function createDivNotes(array) {
@@ -57,7 +58,7 @@ Papa.parse(remotecsv, {
               createDivFunction.textContent = array[i];
               //createDivFunction.style.margin = "0";
               actual.appendChild(createDivFunction);
-              actual.appendChild(createDivLine);
+              actual.appendChild(createDivLine2);
             }
           }
 
@@ -70,6 +71,7 @@ Papa.parse(remotecsv, {
           actual.appendChild(createDiv4);
           actual.appendChild(createDiv5);
           actual.appendChild(createDiv6);
+          createDivs(splitHours);
           actual.appendChild(createDiv7);
           actual.appendChild(createDiv8);
           actual.appendChild(createDiv9);
